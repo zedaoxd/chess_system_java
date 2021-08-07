@@ -1,2 +1,2 @@
 # chess_system_java
-chadrez no cmd, multiplayer
+xadrez no cmd, multiplayer
